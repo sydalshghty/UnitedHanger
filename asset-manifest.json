@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UnitedHanger/static/css/main.5208f8fd.css",
-    "main.js": "/UnitedHanger/static/js/main.95347748.js",
+    "main.js": "/UnitedHanger/static/js/main.d5fb1d6f.js",
     "static/media/home (15).png": "/UnitedHanger/static/media/home (15).fe27b2ef45747f1b75d2.png",
     "static/media/home (14).png": "/UnitedHanger/static/media/home (14).2c75931afc3b6d9aef6c.png",
     "static/media/products.png": "/UnitedHanger/static/media/products.5d6704d1747665feabfd.png",
@@ -19,10 +19,10 @@
     "static/media/products__2_-removebg-preview.png": "/UnitedHanger/static/media/products__2_-removebg-preview.17154a9e1972a849e584.png",
     "index.html": "/UnitedHanger/index.html",
     "main.5208f8fd.css.map": "/UnitedHanger/static/css/main.5208f8fd.css.map",
-    "main.95347748.js.map": "/UnitedHanger/static/js/main.95347748.js.map"
+    "main.d5fb1d6f.js.map": "/UnitedHanger/static/js/main.d5fb1d6f.js.map"
   },
   "entrypoints": [
     "static/css/main.5208f8fd.css",
-    "static/js/main.95347748.js"
+    "static/js/main.d5fb1d6f.js"
   ]
 }
